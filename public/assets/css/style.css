@@ -1,0 +1,32 @@
+#main {
+  padding-top: 20px;
+}
+
+.video-card {
+  max-height: initial !important;
+}
+
+.footer {
+  padding-bottom: 10px;
+}
+
+.header {
+  padding-bottom: 30px;
+}
+
+.heart {
+  color: red;
+}
+
+.comment {
+  color: #0084ff;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination_btn {
+  cursor: pointer;
+}
